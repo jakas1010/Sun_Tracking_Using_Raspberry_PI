@@ -12,7 +12,7 @@ This Python script controls a solar tracking system designed to optimize the ori
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
+
 
 ## Introduction
 
