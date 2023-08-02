@@ -1,0 +1,1 @@
+This solar tracking system was developed at the Udaipur Solar Observatory under the mentorship of Kushagra Upadhyay. Its original purpose was to optimize antenna orientation for signal reception, and it has since been adapted for various applications.
